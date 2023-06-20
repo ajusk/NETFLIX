@@ -185,7 +185,7 @@
   </netflixintro>
 </div>
 <!-- partial -->
-  <script  src="./NETFLIX.js"></script>
+  <script  src="script.js"></script>
 
 </body>
 </html>
